@@ -1,0 +1,11 @@
+﻿{
+  "app_name": "AutomaticRedditStories",
+  "version": "1.0.0",
+  "channel": "stable",
+  "release_date": null,
+  "files": [],
+  "installer": {
+    "url": null,
+    "sha256": null
+  }
+}
